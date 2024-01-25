@@ -50,8 +50,9 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 </div>
 </div> -->
 
+<div class="badge">CVPR 2016</div>
 - ``CVPR 2023`` [LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression](https://arxiv.org/abs/2304.12319).  
-Xi Zhang, Xiaolin Wu.
+**Xi Zhang**, Xiaolin Wu.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
