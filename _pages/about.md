@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -29,9 +30,15 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 
 
 # 🔥 News
+<<<<<<< HEAD
 - *2023.08*: &nbsp;🔥 Receive funding from the National Natural Science Foundation of China for Young Scientists.
 - *2023.03*: &nbsp;🎉 One paper on vector quantization for image compression is accepted by CVPR 2023. 
 - *2022.12*: &nbsp;🔥 Receive funding from 2022 Shanghai Super Postdoctoral Encouragement Program.
+=======
+- *2023.08*: &nbsp;🎉 I am funded by Young Scientists Fund of the National Natural Science Foundation of China.
+- *2023.03*: &nbsp;🎉 One paper on vector quantization for image compression is accepted by CVPR 2023. 
+- *2022.12*: &nbsp;🎉 I am funded by 2022 Shanghai Super Postdoctoral Encouragement Program.
+>>>>>>> d7aa6259cc20c76b6e160e587dd2b267b529b47c
 - *2022.03*: &nbsp;🎉 One paper on multi-modality face video restoration is accepted by TPAMI. 
 - *2021.02*: &nbsp;🎉 One paper on ROI image compression is accepted by CVPR 2021. 
 - *2020.12*: &nbsp;🎉 One paper on high fidelity image compression is accepted by TIP. 
