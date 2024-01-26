@@ -126,3 +126,19 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 # 💻 Internships
 - *2021.03 - 2021.06*, Shannon Lab, Tencent.
 - *2019.06 - 2019.09*, Video R&D Center, Tencent. 
+
+
+# 💬 Academic Service
+
+## Journal Reviewer
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Multimedia (TMM)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
+## Conference Reviewer
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021 - 2024
+- International Conference on Learning Representations (ICLR) 2024
+- Advances in Neural Information Processing Systems (NeurIPS) 2023
+- International Conference on Computer Vision (ICCV) 2023
+- European Conference on Computer Vision (ECCV) 2022, 2024
+- Winter Conference on Applications of Computer Vision (WACV) 2024
