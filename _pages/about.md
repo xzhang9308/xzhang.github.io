@@ -61,6 +61,8 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 - ``arXiv``[Low-complexity l-inf-compression of Light Field Images with a Deep-Decompression Stage](https://arxiv.org/pdf/2201.09834.pdf).
 Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 
+- ``arXiv``[Asymmetric Coding for Ultrahigh Throughput Encoding (ACUTE)]().Seyed Mehdi Ayyoubzadeh, **Xi Zhang**, Xiaolin Wu.
+
 
 ## Published
 
