@@ -23,7 +23,8 @@ I was also a visiting Ph.D. student (2019 - 2020) with the Department of Electri
 I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
 
 My research interests include image and video processing, especially in image and video compression, enhancement, etc.
-I am also interested in other deep learning tasks such as domain generalization and visual reasoning. I have published more than 10 papers  <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am also interested in other deep learning tasks such as domain generalization and visual reasoning. I have published more than 10 papers
+  <!-- <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS, CVPR, AAAI, etc.
 
 
@@ -100,20 +101,22 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 **Xi Zhang**, Xiaolin Wu.
 
 
-
-
-
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2021.12*, Ph.D., Shanghai Jiao Tong University, China.
+- *2019.10 - 2020.10*, Visiting Ph.D. student, McMaster University, Canada. 
+- *2011.09 - 2015.06*, Undergraduate, University of Electronic Science and Technology of China.
 
-# 💬 Invited Talks
+
+# 🎖 Honors and Awards
+- *2014.10* National Scholarship (Undergraduate) (Top 1%)
+- *2013.10* National Scholarship (Undergraduate) (Top 1%)
+
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2021.03 - 2021.06*, Shannon Lab, Tencent.
+- *2019.06 - 2019.09*, Video R&D Center, Tencent.
