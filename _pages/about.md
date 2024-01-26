@@ -29,7 +29,9 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 
 
 # 🔥 News
+- *2023.08*: &nbsp;🔥 Receive funding from the National Natural Science Foundation of China for Young Scientists.
 - *2023.03*: &nbsp;🎉 One paper on vector quantization for image compression is accepted by CVPR 2023. 
+- *2022.12*: &nbsp;🔥 Receive funding from 2022 Shanghai Super Postdoctoral Encouragement Program.
 - *2022.03*: &nbsp;🎉 One paper on multi-modality face video restoration is accepted by TPAMI. 
 - *2021.02*: &nbsp;🎉 One paper on ROI image compression is accepted by CVPR 2021. 
 - *2020.12*: &nbsp;🎉 One paper on high fidelity image compression is accepted by TIP. 
@@ -108,6 +110,8 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 
 
 # 🎖 Honors and Awards
+- *2022.12* Shanghai Super Postdoctoral Fellowship
+- *2019.10* SJTU Outstanding Overseas Study Scholarship
 - *2014.10* National Scholarship (Undergraduate) (Top 1%)
 - *2013.10* National Scholarship (Undergraduate) (Top 1%)
 
@@ -119,4 +123,4 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 
 # 💻 Internships
 - *2021.03 - 2021.06*, Shannon Lab, Tencent.
-- *2019.06 - 2019.09*, Video R&D Center, Tencent.
+- *2019.06 - 2019.09*, Video R&D Center, Tencent. 
