@@ -131,14 +131,7 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 # 💬 Academic Service
 
 ## Journal Reviewer
-- IEEE Transactions on Image Processing (TIP)
-- IEEE Transactions on Multimedia (TMM)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- TIP, TMM, TCSVT, 
 
 ## Conference Reviewer
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021 - 2024
-- International Conference on Learning Representations (ICLR) 2024
-- Advances in Neural Information Processing Systems (NeurIPS) 2023
-- International Conference on Computer Vision (ICCV) 2023
-- European Conference on Computer Vision (ECCV) 2022, 2024
-- Winter Conference on Applications of Computer Vision (WACV) 2024
+- CVPR 2021-2024, ICLR 2024, NeurIPS 2023, ICCV 2023, ECCV 2022-2024, WACV 2024
