@@ -63,13 +63,13 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 - ``arXiv``[Dual-layer Image Compression via Adaptive Downsampling and Spatially Varying Upconversion](https://arxiv.org/pdf/2302.06096.pdf).
 **Xi Zhang**, Xiaolin Wu.
 
-- ``arXiv``[Low-complexity l-inf-compression of Light Field Images with a Deep-Decompression Stage](https://arxiv.org/pdf/2201.09834.pdf).
-Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
-
 - ``arXiv``[Asymmetric Coding for Ultrahigh Throughput Encoding (ACUTE)]().Seyed Mehdi Ayyoubzadeh, **Xi Zhang**, Xiaolin Wu.
 
 
 ## Published
+
+- ``JVCI 2024``[Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://arxiv.org/pdf/2201.09834.pdf).
+Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 
 - ``CVPR 2023`` [LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_LVQAC_Lattice_Vector_Quantization_Coupled_With_Spatially_Adaptive_Companding_for_CVPR_2023_paper.html).  
 **Xi Zhang**, Xiaolin Wu.
