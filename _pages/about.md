@@ -30,9 +30,10 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🔥 Receive funding from the National Natural Science Foundation of China for Young Scientists.
+- *2024.01*: &nbsp;🎉 One paper on light field image compression is accepted by JVCI. 
+<!-- - *2023.08*: &nbsp;🔥 Receive funding from the National Natural Science Foundation of China for Young Scientists. -->
 - *2023.03*: &nbsp;🎉 One paper on vector quantization for image compression is accepted by CVPR 2023. 
-- *2022.12*: &nbsp;🔥 Receive funding from 2022 Shanghai Super Postdoctoral Encouragement Program.
+<!-- - *2022.12*: &nbsp;🔥 Receive funding from 2022 Shanghai Super Postdoctoral Encouragement Program. -->
 - *2022.03*: &nbsp;🎉 One paper on multi-modality face video restoration is accepted by TPAMI. 
 - *2021.02*: &nbsp;🎉 One paper on ROI image compression is accepted by CVPR 2021. 
 - *2020.12*: &nbsp;🎉 One paper on high fidelity image compression is accepted by TIP. 
