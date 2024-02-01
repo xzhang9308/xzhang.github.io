@@ -69,7 +69,7 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 
 ## Published
 
-- ``JVCI 2024``[Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://arxiv.org/pdf/2201.09834.pdf).
+- ``JVCI 2024``[Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072).
 Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 
 - ``CVPR 2023`` [LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_LVQAC_Lattice_Vector_Quantization_Coupled_With_Spatially_Adaptive_Companding_for_CVPR_2023_paper.html).  
