@@ -18,7 +18,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University, with Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a>.
+I am currently an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University. 
+<!-- with Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a>. -->
 Previously, I obtained my Ph.D. degree from Shanghai Jiao Tong University (SJTU) in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>.  
 I was also a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada.  
 I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
