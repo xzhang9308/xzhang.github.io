@@ -31,7 +31,7 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉 One paper on point cloud compression is accepted by ECCV 2024. 
+<!-- - *2024.07*: &nbsp;🎉 One paper on point cloud compression is accepted by ECCV 2024.  -->
 - *2024.01*: &nbsp;🎉 One paper on light field image compression is accepted by JVCI. 
 - *2023.08*: &nbsp;🔥 Receive funding from the National Natural Science Foundation of China for Young Scientists.
 - *2023.03*: &nbsp;🎉 One paper on vector quantization for image compression is accepted by CVPR 2023. 
@@ -70,8 +70,8 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 
 ## Published
 
-- ``ECCV 2024``[Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement]().
-Haoxu, **Xi Zhang**, Xiaolin Wu.
+<!-- - ``ECCV 2024``[Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). -->
+<!-- Haoxu, **Xi Zhang**, Xiaolin Wu. -->
 
 - ``JVCI 2024``[Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072).
 Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
