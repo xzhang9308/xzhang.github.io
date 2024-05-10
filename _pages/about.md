@@ -112,7 +112,7 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 
 
 # 🎨 Academic Experience
-- *2024.06 - 2025.06*, Research Fellow, Nanyang Technological University (NTU), Singapore.
+<!-- - *2024.06 - 2025.06*, Research Fellow, Nanyang Technological University (NTU), Singapore. -->
 - *2023.06 - 2024.06*, Visiting Researcher, McMaster University (Mac), Canada.
 - *2022.06 - 2023.05*, Visiting Researcher, Technical University of Denmark (DTU), Denmark.
 - *2022.06 - 2024.06*, Assistant Researcher and Postdoctoral Fellow, Shanghai Jiao Tong University (SJTU), China.
