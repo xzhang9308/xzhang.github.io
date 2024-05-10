@@ -144,7 +144,7 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 # 💬 Academic Service
 
 ## Journal Reviewer
-- TIP, TMM, TCSVT, 
+- TPAMI, TIP, TMM, TCSVT, 
 
 ## Conference Reviewer
 - CVPR 2021-2024, NeurIPS 2023-2024, ICLR 2024, ICCV 2023, ECCV 2022-2024, WACV 2024
