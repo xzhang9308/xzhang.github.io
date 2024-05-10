@@ -111,6 +111,13 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 **Xi Zhang**, Xiaolin Wu.
 
 
+# 🎨 Academic Experience
+- *2024.06 - 2025.06*, Research Fellow, Nanyang Technological University (NTU), Singapore.
+- *2023.06 - 2024.06*, Visiting Researcher, McMaster University (Mac), Canada.
+- *2022.06 - 2023.05*, Visiting Researcher, Technical University of Denmark (DTU), Denmark.
+- *2022.06 - 2024.06*, Assistant Researcher and Postdoctoral Fellow, Shanghai Jiao Tong University (SJTU), China.
+
+
 # 📖 Educations
 - *2015.09 - 2021.12*, Ph.D., Shanghai Jiao Tong University, China.
 - *2019.10 - 2020.10*, Visiting Ph.D. student, McMaster University, Canada. 
@@ -140,4 +147,4 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 - TIP, TMM, TCSVT, 
 
 ## Conference Reviewer
-- CVPR 2021-2024, ICLR 2024, NeurIPS 2023, ICCV 2023, ECCV 2022-2024, WACV 2024
+- CVPR 2021-2024, NeurIPS 2023-2024, ICLR 2024, ICCV 2023, ECCV 2022-2024, WACV 2024
