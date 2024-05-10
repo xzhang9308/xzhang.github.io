@@ -26,7 +26,7 @@ I received my bachelor's degree in Mathematics and Physics Basic Science from UE
 
 My research interests include image and video processing, especially in image and video compression, enhancement, etc.
 I am also interested in other deep learning tasks such as domain generalization and visual reasoning. I have published more than 10 papers
-  <!-- <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+  <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS, CVPR, AAAI, etc.
 
 
