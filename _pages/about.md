@@ -74,7 +74,7 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 <!-- - ``ECCV 2024``[Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). -->
 <!-- Haoxu, **Xi Zhang**, Xiaolin Wu. -->
 
-- ``JVCI 2024``[Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072).
+- ``JVCI 2024``[Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072). \
 Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 
 - ``CVPR 2023`` [LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_LVQAC_Lattice_Vector_Quantization_Coupled_With_Spatially_Adaptive_Companding_for_CVPR_2023_paper.html).  
@@ -126,10 +126,11 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 
 
 
-# 💰 Grants
-- *2024.06*， China Postdoctoral Science Fund - Special Fund, 180,000 CNY
-- *2023.08*,  Young Scientists Fund from National Natural Science Foundation of China, 300,000 CNY
-- *2022.12*,  Shanghai Super Postdoctoral Encouragement Program, 300,000 CNY
+<!-- # 💰 Grants
+- *2024.06*,  China Postdoctoral Science Fund - Special Fund, Principal Investigator, 180,000 CNY, 
+- *2023.08*,  Young Scientists Fund from National Natural Science Foundation of China, Principal Investigator, 300,000 CNY
+- *2022.12*,  Shanghai Super Postdoctoral Encouragement Program, Principal Investigator, 300,000 CNY
+- *2022.07*,  -->
 
 
 
