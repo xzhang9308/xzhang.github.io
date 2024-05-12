@@ -9,11 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Academic Experience"
-    url: "/#-academic-experience"
+  - title: "Experience"
+    url: "/#-experience"
 
   - title: "Educations"
     url: "/#-educations"
+
+  - title: "Grants"
+    url: "/#-grants"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

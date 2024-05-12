@@ -18,11 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University. 
-<!-- with Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a>. -->
-Previously, I obtained my Ph.D. degree from Shanghai Jiao Tong University (SJTU) in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>.  
-I was also a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada.  
-I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
+I am currently an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University. Previously, I obtained my Ph.D. degree from Shanghai Jiao Tong University (SJTU) in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>. I was also a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada.  Before that, I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
 
 My research interests include image and video processing, especially in image and video compression, enhancement, etc.
 I am also interested in other deep learning tasks such as domain generalization and visual reasoning. I have published more than 10 papers
@@ -123,7 +119,7 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 **Xi Zhang**, Xiaolin Wu.
 
 
-# 🎨 Academic Experience
+# 🎨 Experience
 <!-- - *2024.06 - 2025.06*, Research Fellow, Nanyang Technological University (NTU), Singapore. -->
 - *2023.06 - 2024.06*, Visiting Researcher, McMaster University (Mac), Canada.
 - *2022.06 - 2023.05*, Visiting Researcher, Technical University of Denmark (DTU), Denmark.
@@ -146,6 +142,8 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 &emsp; &emsp; &emsp; ---- Shanghai Super Postdoctoral Encouragement Program.
 - *2022.07*,  "AI-based Video Restoration and Enhancement", Co-Principal Investigator, 2,000,000 CNY. \
 &emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Tech.
+- *2022.02*,  "Content Adaptive Downsampling and Upsampling System for Video Transfer", Co-Principal Investigator, CA$150,000. \
+&emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Technologies Canada.
 
 
 # 🎖 Honors and Awards
