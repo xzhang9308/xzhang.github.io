@@ -118,17 +118,26 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 - *2022.06 - 2024.06*, Assistant Researcher and Postdoctoral Fellow, Shanghai Jiao Tong University (SJTU), China.
 
 
+
 # 📖 Educations
 - *2015.09 - 2021.12*, Ph.D., Shanghai Jiao Tong University, China.
 - *2019.10 - 2020.10*, Visiting Ph.D. student, McMaster University, Canada. 
 - *2011.09 - 2015.06*, Undergraduate, University of Electronic Science and Technology of China.
 
 
+
+# 💰 Grants
+- *2024.06*， China Postdoctoral Science Fund - Special Fund, 180,000 CNY
+- *2023.08*,  Young Scientists Fund from National Natural Science Foundation of China, 300,000 CNY
+- *2022.12*,  Shanghai Super Postdoctoral Encouragement Program, 300,000 CNY
+
+
+
 # 🎖 Honors and Awards
-- *2022.12* Shanghai Super Postdoctoral Fellowship
-- *2019.10* SJTU Outstanding Overseas Study Scholarship
-- *2014.10* National Scholarship (Undergraduate) (Top 1%)
-- *2013.10* National Scholarship (Undergraduate) (Top 1%)
+- *2022.12*, Shanghai Super Postdoctoral Fellowship
+- *2019.10*, SJTU Outstanding Overseas Study Scholarship
+- *2014.10*, National Scholarship (Undergraduate) (Top 1%)
+- *2013.10*, National Scholarship (Undergraduate) (Top 1%)
 
 
 <!-- # 💬 Invited Talks
