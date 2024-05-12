@@ -140,11 +140,12 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 # 💰 Grants
 <!-- - *2024.06*,  China Postdoctoral Science Fund - Special Fund, Principal Investigator, 180,000 CNY -->
-- *2023.08*,  "Research on Functionally Lossless Image Compression", Principal Investigator, 300,000 CNY \
-&emsp; &emsp; --Young Scientists Fund from National Natural Science Foundation of China
-- *2022.12*,  Shanghai Super Postdoctoral Encouragement Program, Principal Investigator, 300,000 CNY
-- *2022.07*,  University-Industry Collaboration Project with Huawei Tech., Co-Principal Investigator, 2,000,000 CNY
-
+- *2023.08*,  "Research on Functionally Lossless Image Compression", Principal Investigator, 300,000 CNY. \
+&emsp; &emsp; &emsp; ---- Young Scientists Fund from National Natural Science Foundation of China.
+- *2022.12*,  "Learning-based Efficient Image Compression and its application", Principal Investigator, 300,000 CNY. \
+&emsp; &emsp; &emsp; ---- Shanghai Super Postdoctoral Encouragement Program.
+- *2022.07*,  "AI-based Video Restoration and Enhancement", Co-Principal Investigator, 2,000,000 CNY.
+&emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Tech.
 
 
 # 🎖 Honors and Awards
