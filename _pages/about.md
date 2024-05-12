@@ -75,14 +75,15 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 <!-- Haoxu, **Xi Zhang**, Xiaolin Wu. -->
 
 - ``JVCI 2024``[Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 
-- ``CVPR 2023`` [LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_LVQAC_Lattice_Vector_Quantization_Coupled_With_Spatially_Adaptive_Companding_for_CVPR_2023_paper.html). \
+- ``CVPR 2023`` [Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_LVQAC_Lattice_Vector_Quantization_Coupled_With_Spatially_Adaptive_Companding_for_CVPR_2023_paper.html). \
 &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu.
 
-- ``TPAMI 2023`` [Multi-modality Deep Restoration of Extremely Compressed Face Videos](https://ieeexplore.ieee.org/abstract/document/9730053).
+- ``TPAMI 2023`` [Multi-modality Deep Restoration of Extremely Compressed Face Videos](https://ieeexplore.ieee.org/abstract/document/9730053). \
+&emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu.
 
 - ``TIP 2022`` [Ultra High Fidelity Deep Image Decompression with L∞-constrained Compression](https://ieeexplore.ieee.org/abstract/document/9277919). \
@@ -107,7 +108,7 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 - ``AAAI 2019`` [Cognitive Deficit of Deep Learning in Numerosity](https://ojs.aaai.org/index.php/AAAI/article/view/3928). \
 &emsp; &emsp; 
-Xiaolin Wu, **Xi Zhang**, Xiao Shu.
+**Xi Zhang**, Xiaolin Wu, Xiao Shu.
 
 - ``ICASSP 2019`` [Nonlinear Prediction of Multidimensional Signals via Deep Regression with Applications to Image Coding](https://ieeexplore.ieee.org/abstract/document/8683863). \
 &emsp; &emsp; 
@@ -137,11 +138,11 @@ Xiaolin Wu, **Xi Zhang**, Xiao Shu.
 
 
 
-<!-- # 💰 Grants
-- *2024.06*,  China Postdoctoral Science Fund - Special Fund, Principal Investigator, 180,000 CNY, 
+# 💰 Grants
+<!-- - *2024.06*,  China Postdoctoral Science Fund - Special Fund, Principal Investigator, 180,000 CNY -->
 - *2023.08*,  Young Scientists Fund from National Natural Science Foundation of China, Principal Investigator, 300,000 CNY
 - *2022.12*,  Shanghai Super Postdoctoral Encouragement Program, Principal Investigator, 300,000 CNY
-- *2022.07*,  -->
+- *2022.07*,  University-Industry Collaboration Project with Huawei Tech., Co-Principal Investigator, 2,000,000 CNY
 
 
 
