@@ -75,51 +75,51 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 <!-- Haoxu, **Xi Zhang**, Xiaolin Wu. -->
 
 - ``JVCI 2024``[Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072). \
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp;
 Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 
 - ``CVPR 2023`` [Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_LVQAC_Lattice_Vector_Quantization_Coupled_With_Spatially_Adaptive_Companding_for_CVPR_2023_paper.html). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp;
 **Xi Zhang**, Xiaolin Wu.
 
 - ``TPAMI 2023`` [Multi-modality Deep Restoration of Extremely Compressed Face Videos](https://ieeexplore.ieee.org/abstract/document/9730053). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp;
 **Xi Zhang**, Xiaolin Wu.
 
 - ``TIP 2022`` [Ultra High Fidelity Deep Image Decompression with L∞-constrained Compression](https://ieeexplore.ieee.org/abstract/document/9277919). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp;
 **Xi Zhang**, Xiaolin Wu.
 
 - ``CVPR 2021`` [Attention-guided Image Compression by Deep Reconstruction of Compressive Sensed Saliency Skeleton](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Attention-Guided_Image_Compression_by_Deep_Reconstruction_of_Compressive_Sensed_Saliency_CVPR_2021_paper.html). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu.
 
 - ``CVPR 2020`` [DAVD-Net: Deep Audio-aided Video Decompression of Talking Heads](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_DAVD-Net_Deep_Audio-Aided_Video_Decompression_of_Talking_Heads_CVPR_2020_paper.html). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp;
 **Xi Zhang**, Xiaolin Wu, Xinliang Zhai, Xianye Ben and Chengjie Tu.
 
 - ``NeurIPS 2020`` [On Numerosity of Deep Neural Networks](https://proceedings.neurips.cc/paper/2020/hash/13e36f06c66134ad65f532e90d898545-Abstract.html). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu.
 
 - ``ACMMM 2020`` [Deep Multi-modality Soft-decoding of Very Low Bit-rate Face Videos](https://dl.acm.org/doi/abs/10.1145/3394171.3413709). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp;
 Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 - ``AAAI 2019`` [Cognitive Deficit of Deep Learning in Numerosity](https://ojs.aaai.org/index.php/AAAI/article/view/3928). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu, Xiao Shu.
 
 - ``ICASSP 2019`` [Nonlinear Prediction of Multidimensional Signals via Deep Regression with Applications to Image Coding](https://ieeexplore.ieee.org/abstract/document/8683863). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu.
 
 - ``DCC 2019`` [Near-Lossless L∞-Constrained Image Decompression via Deep Neural Network](https://ieeexplore.ieee.org/abstract/document/8712819). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp;
 **Xi Zhang**, Xiaolin Wu.
 
 - ``VCIP 2017`` [Illumination invariant feature based on neighboring radiance ratio](https://ieeexplore.ieee.org/abstract/document/8305111). \
-&emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp;
 **Xi Zhang**, Xiaolin Wu.
 
 
@@ -140,7 +140,8 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 # 💰 Grants
 <!-- - *2024.06*,  China Postdoctoral Science Fund - Special Fund, Principal Investigator, 180,000 CNY -->
-- *2023.08*,  Young Scientists Fund from National Natural Science Foundation of China, Principal Investigator, 300,000 CNY
+- *2023.08*,  "Research on Functionally Lossless Image Compression", Principal Investigator, 300,000 CNY \
+&emsp; &emsp; --Young Scientists Fund from National Natural Science Foundation of China
 - *2022.12*,  Shanghai Super Postdoctoral Encouragement Program, Principal Investigator, 300,000 CNY
 - *2022.07*,  University-Industry Collaboration Project with Huawei Tech., Co-Principal Investigator, 2,000,000 CNY
 
