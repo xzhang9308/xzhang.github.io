@@ -135,8 +135,8 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 
 # 💰 Grants
-- *2024.06*,  "Ultra High Fidelity Nea-lossless Image Compression", Principal Investigator, 180,000 CNY. \
-&emsp; &emsp; &emsp; ---- Special Fund from China Postdoctoral Science Foundation (CPSF). 
+<!-- - *2024.06*,  "Ultra High Fidelity Near-lossless Image Compression", Principal Investigator, 180,000 CNY. \
+&emsp; &emsp; &emsp; ---- Special Fund from China Postdoctoral Science Foundation (CPSF).  -->
 - *2023.08*,  "Research on Functionally Lossless Image Compression", Principal Investigator, 300,000 CNY. \
 &emsp; &emsp; &emsp; ---- Young Scientists Fund from National Natural Science Foundation of China (NSFC).
 - *2022.12*,  "Learning-based Efficient Image Compression and its application", Principal Investigator, 300,000 CNY. \
