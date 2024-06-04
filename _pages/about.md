@@ -135,7 +135,7 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 
 # 💰 Grants
-- *2024.06*,  "Ultra High Fidelity Nea-lossless Image Compression", Principal Investigator, 180,000 CNY
+- *2024.06*,  "Ultra High Fidelity Nea-lossless Image Compression", Principal Investigator, 180,000 CNY. \
 &emsp; &emsp; &emsp; ---- Special Fund from China Postdoctoral Science Foundation (CPSF). 
 - *2023.08*,  "Research on Functionally Lossless Image Compression", Principal Investigator, 300,000 CNY. \
 &emsp; &emsp; &emsp; ---- Young Scientists Fund from National Natural Science Foundation of China (NSFC).
@@ -143,7 +143,7 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 &emsp; &emsp; &emsp; ---- Shanghai Super Postdoctoral Encouragement Program.
 - *2022.07*,  "AI-based Video Restoration and Enhancement", Co-Principal Investigator, 2,000,000 CNY. \
 &emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Tech.
-- *2022.02*,  "Content Adaptive Downsampling and Upsampling System for Video Transfer", Co-Principal Investigator, CA$150,000. \
+- *2022.02*,  "Content Adaptive Downsampling and Upsampling System for Video Transfer", Co-Principal Investigator, 150,000 CAD. \
 &emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Technologies Canada.
 
 
