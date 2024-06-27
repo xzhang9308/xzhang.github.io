@@ -65,7 +65,7 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 <!-- - ``ECCV 2024``[Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). -->
 <!-- Haoxu, **Xi Zhang**, Xiaolin Wu. -->
   
-- `JVCI 2024` [Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072). \
+- ``JVCI 2024`` [Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072). \
 &emsp; &emsp; &emsp; &emsp; 
 Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 
