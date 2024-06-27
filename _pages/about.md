@@ -28,10 +28,11 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 
 # 🔥 News
 <!-- - *2024.07*: &nbsp;🎉 One paper on point cloud compression is accepted by ECCV 2024.  -->
+- *2024.06*: &nbsp;🔥 New grant: Special Fund from the China Postdoctoral Science Foundation (CPSF). 
 - *2024.01*: &nbsp;🎉 One paper on light field image compression is accepted by JVCI. 
-- *2023.08*: &nbsp;🔥 Receive funding from the National Natural Science Foundation of China for Young Scientists.
+- *2023.08*: &nbsp;🔥 New grant: Young Scientists Fund from the National Natural Science Foundation of China (NSFC).
 - *2023.03*: &nbsp;🎉 One paper on vector quantization for image compression is accepted by CVPR 2023. 
-- *2022.12*: &nbsp;🔥 Receive funding from 2022 Shanghai Super Postdoctoral Encouragement Program.
+- *2022.12*: &nbsp;🔥 New grant: Shanghai Super Postdoctoral Encouragement Program.
 - *2022.03*: &nbsp;🎉 One paper on multi-modality face video restoration is accepted by TPAMI. 
 - *2021.02*: &nbsp;🎉 One paper on ROI image compression is accepted by CVPR 2021. 
 - *2020.12*: &nbsp;🎉 One paper on high fidelity image compression is accepted by TIP. 
@@ -135,8 +136,8 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 
 # 💰 Grants
-<!-- - *2024.06*,  "Ultra High Fidelity Near-lossless Image Compression", Principal Investigator, 180,000 CNY. \
-&emsp; &emsp; &emsp; ---- Special Fund from China Postdoctoral Science Foundation (CPSF).  -->
+- *2024.06*,  "Ultra High Fidelity Near-lossless Image Compression", Principal Investigator, 180,000 CNY. \
+&emsp; &emsp; &emsp; ---- Special Fund from China Postdoctoral Science Foundation (CPSF). 
 - *2023.08*,  "Research on Functionally Lossless Image Compression", Principal Investigator, 300,000 CNY. \
 &emsp; &emsp; &emsp; ---- Young Scientists Fund from National Natural Science Foundation of China (NSFC).
 - *2022.12*,  "Learning-based Efficient Image Compression and its application", Principal Investigator, 300,000 CNY. \
@@ -170,4 +171,4 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 - T-PAMI, T-IP, T-MM, T-CSVT, 
 
 ## Conference Reviewer
-- CVPR 2021-2024, NeurIPS 2023-2024, ICLR 2024, ICCV 2021-2023, ECCV 2022-2024, WACV 2024
+- CVPR 2021-2024, NeurIPS 2023-2024, ICLR 2024, ICCV 2021-2023, ECCV 2022-2024, WACV 2024-2025
