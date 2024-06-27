@@ -18,9 +18,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University. Previously, I obtained my Ph.D. degree from Shanghai Jiao Tong University (SJTU) in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>. I was also a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada.  Before that, I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
+I am currently an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU), supervised by Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a>.
+I am also a visiting researcher at McMaster University (Mac), Canada since June 2023. Previously, I was a visiting researcher at Technical University of Denmark (DTU), Denmark from June 2022 to May 2023.
+I obtained my Ph.D. degree from SJTU in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>. I was a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada.  Before that, I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
 
-My research interests include image and video processing, especially in image and video compression, enhancement, etc.
+My research interests include learning-based signal processing, particularly in data compression, including image, video, point cloud, and light field compression.
 I am also interested in other deep learning tasks such as domain generalization and visual reasoning. I have published more than 10 papers
   <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS, CVPR, AAAI, etc.
