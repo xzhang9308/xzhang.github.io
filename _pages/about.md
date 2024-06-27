@@ -16,7 +16,8 @@ I obtained my Ph.D. degree from SJTU in 2022, supervised by Prof. <a href="https
 
 My research interests include learning-based signal processing, particularly in data compression, including image, video, point cloud, and light field compression.
 I am also interested in other deep learning tasks such as domain generalization and visual reasoning. I have published more than 10 papers
-  <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+  <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'>
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS, CVPR, AAAI, etc.
 
 
@@ -85,7 +86,7 @@ Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 &emsp; &emsp; &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu.
 
-- ``CVPR 2020`` [DAVD-Net: Deep Audio-aided Video Decompression of Talking Heads](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_DAVD-Net_Deep_Audio-Aided_Video_Decompression_of_Talking_Heads_CVPR_2020_paper.html). \
+- ``CVPR 2020`` <span style="color:red">(Oral)</span> [DAVD-Net: Deep Audio-aided Video Decompression of Talking Heads](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_DAVD-Net_Deep_Audio-Aided_Video_Decompression_of_Talking_Heads_CVPR_2020_paper.html). \
 &emsp; &emsp; &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu, Xinliang Zhai, Xianye Ben and Chengjie Tu.
 
@@ -97,7 +98,7 @@ Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 &emsp; &emsp; &emsp; &emsp; 
 Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
-- ``AAAI 2019`` [Cognitive Deficit of Deep Learning in Numerosity](https://ojs.aaai.org/index.php/AAAI/article/view/3928). \
+- ``AAAI 2019`` <span style="color:red">(Spotlight)</span> [Cognitive Deficit of Deep Learning in Numerosity](https://ojs.aaai.org/index.php/AAAI/article/view/3928). \
 &emsp; &emsp; &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu, Xiao Shu.
 
