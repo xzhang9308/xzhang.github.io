@@ -16,7 +16,7 @@ I obtained my Ph.D. degree from SJTU in 2022, supervised by Prof. <a href="https
 
 My research interests include learning-based signal processing, particularly in data compression, including image, video, point cloud, and light field compression.
 I am also interested in other deep learning tasks such as domain generalization and visual reasoning. I have published more than 10 papers
-with total <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'> google scholar citations
+with total <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a> 
   <!-- <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'>
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 at the top international AI Journals and conferences such as T-PAMI, T-IP, NeurIPS, CVPR, ECCV, AAAI, etc.
