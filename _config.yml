@@ -9,7 +9,7 @@
 title                    : "Xi Zhang"
 description              : "Assistant Researcher and Postdoctoral fellow at Shanghai Jiao Tong University. "
 repository               : "xzhang9308/xzhang9308.github.io"
-google_scholar_stats_use_cdn : True
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
