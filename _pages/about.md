@@ -64,7 +64,7 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 ## Published
 (+ means equal contribution, * means corresponding author(s))
 
-- ``ECCV 2024``[Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). \
+- ``ECCV 2024`` [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). \
 &emsp; &emsp; &emsp; &emsp; 
 Hao Xu, **Xi Zhang**, Xiaolin Wu.
   
