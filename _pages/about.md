@@ -22,7 +22,7 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 
 
 # 🔥 News
-<!-- - *2024.07*: &nbsp;🎉 One paper on point cloud compression is accepted by ECCV 2024.  -->
+- *2024.07*: &nbsp;🎉 One paper on point cloud compression is accepted by ECCV 2024. 
 - *2024.06*: &nbsp;🔥 New grant: Special Fund from the China Postdoctoral Science Foundation (CPSF). 
 - *2024.01*: &nbsp;🎉 One paper on light field image compression is accepted by JVCI. 
 - *2023.08*: &nbsp;🔥 New grant: Young Scientists Fund from the National Natural Science Foundation of China (NSFC).
@@ -64,8 +64,9 @@ at the top international AI Journals and conferences such as TPAMI, TIP, NeurIPS
 ## Published
 (+ means equal contribution, * means corresponding author(s))
 
-<!-- - ``ECCV 2024``[Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). -->
-<!-- Haoxu, **Xi Zhang**, Xiaolin Wu. -->
+- ``ECCV 2024``[Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). \
+&emsp; &emsp; &emsp; &emsp; 
+Hao Xu, **Xi Zhang**, Xiaolin Wu.
   
 - ``JVCI 2024`` [Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072). \
 &emsp; &emsp; &emsp; &emsp; 
@@ -97,7 +98,7 @@ Muhammad Umair Mukati<sup>+</sup>, **Xi Zhang**<sup>+</sup>, Xiaolin Wu, Søren 
 
 - ``ACMMM 2020`` [Deep Multi-modality Soft-decoding of Very Low Bit-rate Face Videos](https://dl.acm.org/doi/abs/10.1145/3394171.3413709). \
 &emsp; &emsp; &emsp; &emsp; 
-Yanhui Guo, **Xi Zhang**<sup>*</sup>, Xiaolin Wu<sup>*</sup>.
+Yanhui Guo<sup>+</sup>, **Xi Zhang**<sup>+</sup>, Xiaolin Wu.
 
 - ``AAAI 2019`` <span style="color:red">(Spotlight)</span> [Cognitive Deficit of Deep Learning in Numerosity](https://ojs.aaai.org/index.php/AAAI/article/view/3928). \
 &emsp; &emsp; &emsp; &emsp; 
