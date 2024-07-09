@@ -63,7 +63,7 @@ at the top international AI Journals and conferences such as T-PAMI, T-IP, NeurI
 
 
 ## Published
-(+ means equal contribution, * means corresponding author(s))
+<!-- (+ means equal contribution, * means corresponding author(s)) -->
 
 - ``ECCV 2024`` [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). \
 &emsp; &emsp; &emsp; &emsp; 
@@ -71,7 +71,7 @@ Hao Xu, **Xi Zhang**, Xiaolin Wu.
   
 - ``JVCI 2024`` [Low-complexity L∞--compression of Light Field Images with a Deep-Decompression Stage](https://doi.org/10.1016/j.jvcir.2024.104072). \
 &emsp; &emsp; &emsp; &emsp; 
-Muhammad Umair Mukati<sup>+</sup>, **Xi Zhang**<sup>+</sup>, Xiaolin Wu, Søren Forchhammer.
+Muhammad Umair Mukati, **Xi Zhang**, Xiaolin Wu, Søren Forchhammer.
 
 - ``CVPR 2023`` [Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_LVQAC_Lattice_Vector_Quantization_Coupled_With_Spatially_Adaptive_Companding_for_CVPR_2023_paper.html). \
 &emsp; &emsp; &emsp; &emsp; 
@@ -99,7 +99,7 @@ Muhammad Umair Mukati<sup>+</sup>, **Xi Zhang**<sup>+</sup>, Xiaolin Wu, Søren 
 
 - ``ACMMM 2020`` [Deep Multi-modality Soft-decoding of Very Low Bit-rate Face Videos](https://dl.acm.org/doi/abs/10.1145/3394171.3413709). \
 &emsp; &emsp; &emsp; &emsp; 
-Yanhui Guo<sup>+</sup>, **Xi Zhang**<sup>+</sup>, Xiaolin Wu.
+Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 - ``AAAI 2019`` <span style="color:red">(Spotlight)</span> [Cognitive Deficit of Deep Learning in Numerosity](https://ojs.aaai.org/index.php/AAAI/article/view/3928). \
 &emsp; &emsp; &emsp; &emsp; 
