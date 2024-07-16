@@ -65,6 +65,10 @@ at the top international AI Journals and conferences such as T-PAMI, T-IP, NeurI
 ## Published
 <!-- (+ means equal contribution, * means corresponding author(s)) -->
 
+- ``NeurIPS 2024`` [Learning Optimal Lattice Vector Quantizers for End-to-end DNN Image Compression](). \
+&emsp; &emsp; &emsp; &emsp; 
+**Xi Zhang**, Xiaolin Wu.
+
 - ``ECCV 2024`` [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). \
 &emsp; &emsp; &emsp; &emsp; 
 Hao Xu, **Xi Zhang**, Xiaolin Wu.
