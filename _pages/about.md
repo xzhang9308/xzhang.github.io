@@ -76,7 +76,7 @@ at the top international AI Journals and conferences such as T-PAMI, T-IP, NeurI
 &emsp; &emsp; &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu. -->
 
-- ``ECCV 2024`` [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](). \
+- ``ECCV 2024`` [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](https://arxiv.org/pdf/2408.02966). \
 &emsp; &emsp; &emsp; &emsp; 
 Hao Xu, **Xi Zhang**, Xiaolin Wu.
   
