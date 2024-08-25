@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU), supervised by Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a>.
-I am also a visiting researcher at McMaster University (Mac), Canada since June 2023. Previously, I was a visiting researcher at Technical University of Denmark (DTU), Denmark from June 2022 to May 2023.
+I am joining Nanyang Technological University (NTU) as a Research Scientist in the Alibaba-NTU Global e-Sustainability CorpLab (ANGEL), under the supervision of Prof. <a href="https://personal.ntu.edu.sg/wslin/Home.html">Weisi Lin</a>. Before that, I was an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU), supervised by Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a>, from June 2022 to August 2024.
+I was also a visiting researcher at McMaster University (Mac), Canada from June 2023 to June 2024 and a visiting researcher at Technical University of Denmark (DTU), Denmark from June 2022 to May 2023.
 I obtained my Ph.D. degree from SJTU in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>. I was a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada.  Before that, I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
 
 My research interests include learning-based signal processing, particularly in data compression, including image, video, point cloud, and light field compression.
