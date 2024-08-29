@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Scientist at the Alibaba-NTU Global e-Sustainability CorpLab (ANGEL) in Nanyang Technological University (NTU), working with Prof. <a href="https://personal.ntu.edu.sg/wslin/Home.html">Weisi Lin</a>. Before that, I was an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU), supervised by Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a>.
+I am currently a Research Scientist in the Alibaba-NTU Global e-Sustainability CorpLab (ANGEL) at Nanyang Technological University (NTU), working with Prof. <a href="https://personal.ntu.edu.sg/wslin/Home.html">Weisi Lin</a>. Before that, I was an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU), supervised by Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a>.
 I was also a visiting researcher at McMaster University (Mac), Canada from June 2023 to May 2024 and a visiting researcher at Technical University of Denmark (DTU), Denmark from June 2022 to May 2023.
 I obtained my Ph.D. degree from SJTU in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>. I was a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada.  Before that, I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
 
@@ -130,7 +130,7 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 
 # 🎨 Experience
-- *2024.09 - Present*, Research Fellow, Nanyang Technological University (NTU), Singapore.
+- *2024.09 - Present*, Research Scientist, Nanyang Technological University (NTU), Singapore.
 - *2023.06 - 2024.05*, Visiting Researcher, McMaster University (Mac), Canada.
 - *2022.06 - 2023.05*, Visiting Researcher, Technical University of Denmark (DTU), Denmark.
 - *2022.06 - 2024.08*, Assistant Researcher and Postdoctoral Fellow, Shanghai Jiao Tong University (SJTU), China.
