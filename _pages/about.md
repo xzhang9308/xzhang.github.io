@@ -129,6 +129,7 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 **Xi Zhang**, Xiaolin Wu.
 
 
+
 # 🎨 Experience
 - *2024.09 - Present*, Research Scientist, Nanyang Technological University (NTU), Singapore.
 - *2023.06 - 2024.05*, Visiting Researcher, McMaster University (Mac), Canada.
@@ -177,7 +178,7 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 # 💬 Academic Service
 
 ## Journal Reviewer
-- T-PAMI, T-IP, T-MM, T-CSVT, 
+- T-PAMI, T-IP, T-NNLS, T-MM, T-CSVT
 
 ## Conference Reviewer
 - CVPR 2021-2024, NeurIPS 2023-2024, ICLR 2024, ICCV 2021-2023, ECCV 2022-2024, WACV 2024-2025
