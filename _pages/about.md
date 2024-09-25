@@ -30,6 +30,7 @@ at the top AI Journals and conferences such as T-PAMI, T-IP, NeurIPS, CVPR, ECCV
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉 One paper on optimal lattice vector quantizer is accepted by NeurIPS 2024. 
 - *2024.07*: &nbsp;🎉 One paper on point cloud compression is accepted by ECCV 2024. 
 - *2024.06*: &nbsp;🔥 New grant: Special Fund from the China Postdoctoral Science Foundation (CPSF). 
 - *2024.01*: &nbsp;🎉 One paper on light field image compression is accepted by JVCI. 
@@ -72,9 +73,9 @@ at the top AI Journals and conferences such as T-PAMI, T-IP, NeurIPS, CVPR, ECCV
 ## Published
 <!-- (+ means equal contribution, * means corresponding author(s)) -->
 
-<!-- - ``NeurIPS 2024`` [Learning Optimal Lattice Vector Quantizers for End-to-end DNN Image Compression](). \
+- ``NeurIPS 2024`` [Learning Optimal Lattice Vector Quantizers for End-to-end DNN Image Compression](). \
 &emsp; &emsp; &emsp; &emsp; 
-**Xi Zhang**, Xiaolin Wu. -->
+**Xi Zhang**, Xiaolin Wu.
 
 - ``ECCV 2024`` [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](https://arxiv.org/pdf/2408.02966). \
 &emsp; &emsp; &emsp; &emsp; 
