@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Xi Zhang"
-description              : "Research Scientist at NTU Green/Energy-efficient AI" 
+# description              : "Research Scientist at NTU Green/Energy-efficient AI" 
+description              : "Postdoctoral Fellow at SJTU" 
 repository               : "xzhang9308/xzhang9308.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +25,7 @@ author:
   name             : "Xi Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
-  location         : "Singapore"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=78WvEjMAAAAJ"
