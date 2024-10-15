@@ -24,11 +24,11 @@ I was also a visiting researcher at McMaster University (Mac), Canada from June 
 I obtained my Ph.D. degree from SJTU in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>. I was a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada.  Before that, I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
 
 My current research interests focus on green and energy-efficient AI technologies that prioritize sustainable ecosystems and lifestyles. Previously, I concentrated on learning-based data compression techniques, particularly for visual data such as images, videos, point clouds, and light fields. Additionally, I am interested in core deep learning challenges, including domain generalization and visual reasoning.
-I have published more than 10 papers
-with total <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a> 
+<!-- I have published more than 10 papers at the top AI Journals and conferences such as T-PAMI, T-IP, NeurIPS, CVPR, ECCV, AAAI, etc. -->
+<!-- with total <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>  -->
   <!-- <a href='https://scholar.google.com/citations?user=78WvEjMAAAAJ'>
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
-at the top AI Journals and conferences such as T-PAMI, T-IP, NeurIPS, CVPR, ECCV, AAAI, etc.
+
 
 
 # 🔥 News
