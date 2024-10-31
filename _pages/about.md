@@ -75,7 +75,7 @@ My current research interests focus on green and energy-efficient AI technologie
 ## Published
 <!-- (+ means equal contribution, * means corresponding author(s)) -->
 
-- ``NeurIPS 2024`` [Learning Optimal Lattice Vector Quantizers for End-to-end DNN Image Compression](). \
+- ``NeurIPS 2024`` [OLVQ: Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression](). \
 &emsp; &emsp; &emsp; &emsp; 
 **Xi Zhang**, Xiaolin Wu.
 
