@@ -26,7 +26,7 @@ and Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaol
 I was also a visiting researcher at McMaster University (Mac), Canada from June 2023 to May 2024 
 and a visiting researcher at Technical University of Denmark (DTU), Denmark from June 2022 to May 2023.
 I obtained my Ph.D. degree from SJTU in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>. 
-I was a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada.  
+I was a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada. 
 Before that, I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
 
 My current research interests focus on green and energy-efficient AI technologies that prioritize sustainable ecosystems and lifestyles. 
