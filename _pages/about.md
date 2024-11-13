@@ -23,10 +23,9 @@ Before that,
 I was an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU), 
 supervised by Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a> 
 and Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>.
-I was also a visiting researcher at McMaster University (Mac), Canada from June 2023 to May 2024 
-and a visiting researcher at Technical University of Denmark (DTU), Denmark from June 2022 to May 2023.
-I obtained my Ph.D. degree from SJTU in 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>. 
-I was a visiting Ph.D. student (2019 - 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada. 
+I was also a visiting researcher at McMaster University (Mac), Canada from June 2022 to August 2024.
+I obtained my Ph.D. degree from SJTU in June 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>. 
+I was also a visiting Ph.D. student (Oct 2019 - Sep 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada. 
 Before that, I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
 
 My current research interests focus on green and energy-efficient AI technologies that prioritize sustainable ecosystems and lifestyles. 
@@ -148,9 +147,8 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 
 # 🎨 Visiting Experience
-- *2023.06 - 2024.05*, Visiting Researcher, McMaster University (Mac), Canada.
-- *2022.06 - 2023.05*, Visiting Researcher, Technical University of Denmark (DTU), Denmark.
-
+- *2022.06 - 2024.08*, Visiting Researcher, McMaster University (Mac), Canada.
+- *2019.10 - 2020.09*, Visiting PhD Student, McMaster University (Mac), Canada.
 
 
 # 📖 Educations
