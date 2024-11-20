@@ -19,14 +19,11 @@ redirect_from:
 
 I am currently a Research Scientist in the Alibaba-NTU Global e-Sustainability CorpLab (ANGEL) at Nanyang Technological University (NTU), 
 working with Prof. <a href="https://personal.ntu.edu.sg/wslin/Home.html">Weisi Lin</a>. 
-Before that, 
-I was an assistant researcher and a postdoctoral fellow at Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU), 
-supervised by Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a> 
-and Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>.
-I was also a visiting researcher at McMaster University (Mac), Canada from June 2022 to August 2024.
-I obtained my Ph.D. degree from SJTU in June 2022, supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>.  
-I was also a visiting Ph.D. student (Oct 2019 - Sep 2020) with the Department of Electrical and Computer Engineering at McMaster University, Canada. 
-Before that, I received my bachelor's degree in Mathematics and Physics Basic Science from UESTC in 2015.
+Before that, I was a postdoctoral fellow at McMaster University (Mac), Canada from July 2022 to August 2024, 
+supervised by Prof. <a href="https://scholar.google.com/citations?user=ZuQnEIgAAAAJ">Xiaolin Wu</a>.
+I was also an assistant researcher at Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU), 
+supervised by Prof. <a href="https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14">Hongkai Xiong</a>.
+I earned my PhD from SJTU in June 2022 and my bachelor’s degree in Mathematics and Physics Basic Science from UESTC in 2015.
 
 My current research interests focus on green and energy-efficient AI technologies that prioritize sustainable ecosystems and lifestyles. 
 Previously, I concentrated on learning-based data compression techniques, particularly for visual data such as images, videos, point clouds, and light fields. 
@@ -41,11 +38,11 @@ Additionally, I am interested in core deep learning challenges, including domain
 # 🔥 News
 - *2024.09*: &nbsp;🎉 One paper on optimal lattice vector quantizer is accepted by NeurIPS 2024. 
 - *2024.07*: &nbsp;🎉 One paper on point cloud compression is accepted by ECCV 2024. 
-- *2024.06*: &nbsp;🔥 New grant: Special Fund from the China Postdoctoral Science Foundation (CPSF). 
+<!-- - *2024.06*: &nbsp;🔥 New grant: Special Fund from the China Postdoctoral Science Foundation (CPSF).  -->
 - *2024.01*: &nbsp;🎉 One paper on light field image compression is accepted by JVCI. 
-- *2023.08*: &nbsp;🔥 New grant: Young Scientists Fund from the National Natural Science Foundation of China (NSFC).
+<!-- - *2023.08*: &nbsp;🔥 New grant: Young Scientists Fund from the National Natural Science Foundation of China (NSFC). -->
 - *2023.03*: &nbsp;🎉 One paper on vector quantization for image compression is accepted by CVPR 2023. 
-- *2022.12*: &nbsp;🔥 New grant: Shanghai Super Postdoctoral Encouragement Program.
+<!-- - *2022.12*: &nbsp;🔥 New grant: Shanghai Super Postdoctoral Encouragement Program. -->
 - *2022.03*: &nbsp;🎉 One paper on multi-modality face video restoration is accepted by TPAMI. 
 - *2021.02*: &nbsp;🎉 One paper on ROI image compression is accepted by CVPR 2021. 
 - *2020.12*: &nbsp;🎉 One paper on high fidelity image compression is accepted by TIP. 
@@ -142,22 +139,24 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 # 🎨 Working Experience
 - *2024.09 - Present*, Research Scientist, Nanyang Technological University (NTU), Singapore.
-- *2022.06 - 2024.08*, Assistant Researcher and Postdoctoral Fellow, Shanghai Jiao Tong University (SJTU), China.
+- *2022.07 - 2024.08*, Postdoctoral Fellow, McMaster University (Mac), Canada.
+- *2022.06 - 2024.08*, Assistant Researcher, Shanghai Jiao Tong University (SJTU), China.
 
 
 
-# 🎨 Visiting Experience
+<!-- # 🎨 Visiting Experience
 - *2022.06 - 2024.08*, Visiting Researcher, McMaster University (Mac), Canada.
-- *2019.10 - 2020.09*, Visiting PhD Student, McMaster University (Mac), Canada.
+- *2019.10 - 2020.09*, Visiting PhD Student, McMaster University (Mac), Canada. -->
 
 
 # 📖 Educations
-- *2015.09 - 2022.06*, Ph.D., Shanghai Jiao Tong University, China.
+- *2015.09 - 2022.06*, PhD, Shanghai Jiao Tong University, China.
+- *2019.10 - 2020.09*, Visiting PhD, McMaster University (Mac), Canada. 
 - *2011.09 - 2015.06*, Undergraduate, University of Electronic Science and Technology of China.
 
 
 
-# 💰 Grants
+<!-- # 💰 Grants
 - *2024.06*,  "Ultra High Fidelity Near-lossless Image Compression", Principal Investigator, 180,000 CNY. \
 &emsp; &emsp; &emsp; ---- Special Fund from China Postdoctoral Science Foundation (CPSF). 
 - *2023.08*,  "Research on Functionally Lossless Image Compression", Principal Investigator, 300,000 CNY. \
@@ -167,14 +166,14 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 - *2022.07*,  "AI-based Video Restoration and Enhancement", Co-Principal Investigator, 2,000,000 CNY. \
 &emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Tech.
 - *2022.02*,  "Content Adaptive Downsampling and Upsampling System for Video Transfer", Co-Principal Investigator, 150,000 CAD. \
-&emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Technologies Canada.
+&emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Technologies Canada. -->
 
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2022.12*, Shanghai Super Postdoctoral Fellowship
 - *2019.10*, SJTU Outstanding Overseas Study Scholarship
 - *2014.10*, National Scholarship (Undergraduate) (Top 1%)
-- *2013.10*, National Scholarship (Undergraduate) (Top 1%)
+- *2013.10*, National Scholarship (Undergraduate) (Top 1%) -->
 
 
 <!-- # 💬 Invited Talks
