@@ -38,11 +38,8 @@ Additionally, I am interested in core deep learning challenges, including domain
 # 🔥 News
 - *2024.09*: &nbsp;🎉 One paper on optimal lattice vector quantizer is accepted by NeurIPS 2024. 
 - *2024.07*: &nbsp;🎉 One paper on point cloud compression is accepted by ECCV 2024. 
-<!-- - *2024.06*: &nbsp;🔥 New grant: Special Fund from the China Postdoctoral Science Foundation (CPSF).  -->
 - *2024.01*: &nbsp;🎉 One paper on light field image compression is accepted by JVCI. 
-<!-- - *2023.08*: &nbsp;🔥 New grant: Young Scientists Fund from the National Natural Science Foundation of China (NSFC). -->
 - *2023.03*: &nbsp;🎉 One paper on vector quantization for image compression is accepted by CVPR 2023. 
-<!-- - *2022.12*: &nbsp;🔥 New grant: Shanghai Super Postdoctoral Encouragement Program. -->
 - *2022.03*: &nbsp;🎉 One paper on multi-modality face video restoration is accepted by TPAMI. 
 - *2021.02*: &nbsp;🎉 One paper on ROI image compression is accepted by CVPR 2021. 
 - *2020.12*: &nbsp;🎉 One paper on high fidelity image compression is accepted by TIP. 
@@ -140,13 +137,7 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 # 🎨 Working Experience
 - *2024.09 - Present*, Research Scientist, Nanyang Technological University (NTU), Singapore.
 - *2022.07 - 2024.08*, Postdoctoral Fellow, McMaster University (Mac), Canada.
-- *2022.06 - 2024.08*, Assistant Researcher, Shanghai Jiao Tong University (SJTU), China.
 
-
-
-<!-- # 🎨 Visiting Experience
-- *2022.06 - 2024.08*, Visiting Researcher, McMaster University (Mac), Canada.
-- *2019.10 - 2020.09*, Visiting PhD Student, McMaster University (Mac), Canada. -->
 
 
 # 📖 Educations
@@ -156,29 +147,18 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 
 
-<!-- # 💰 Grants
-- *2024.06*,  "Ultra High Fidelity Near-lossless Image Compression", Principal Investigator, 180,000 CNY. \
-&emsp; &emsp; &emsp; ---- Special Fund from China Postdoctoral Science Foundation (CPSF). 
-- *2023.08*,  "Research on Functionally Lossless Image Compression", Principal Investigator, 300,000 CNY. \
-&emsp; &emsp; &emsp; ---- Young Scientists Fund from National Natural Science Foundation of China (NSFC).
-- *2022.12*,  "Learning-based Efficient Image Compression and its application", Principal Investigator, 300,000 CNY. \
-&emsp; &emsp; &emsp; ---- Shanghai Super Postdoctoral Encouragement Program.
-- *2022.07*,  "AI-based Video Restoration and Enhancement", Co-Principal Investigator, 2,000,000 CNY. \
-&emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Tech.
-- *2022.02*,  "Content Adaptive Downsampling and Upsampling System for Video Transfer", Co-Principal Investigator, 150,000 CAD. \
-&emsp; &emsp; &emsp; ---- University-Industry Collaboration Project with Huawei Technologies Canada. -->
+<!-- # 💰 Grants -->
 
 
-<!-- # 🎖 Honors and Awards
-- *2022.12*, Shanghai Super Postdoctoral Fellowship
-- *2019.10*, SJTU Outstanding Overseas Study Scholarship
+
+# 🎖 Honors and Awards
 - *2014.10*, National Scholarship (Undergraduate) (Top 1%)
-- *2013.10*, National Scholarship (Undergraduate) (Top 1%) -->
+- *2013.10*, National Scholarship (Undergraduate) (Top 1%)
 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+<!-- # 💬 Invited Talks -->
+
 
 
 # 💻 Internships
@@ -188,8 +168,10 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 # 💬 Academic Service
 
+
 ## Journal Reviewer
 - T-PAMI, T-IP, T-NNLS, T-MM, T-CSVT
+
 
 ## Conference Reviewer
 - CVPR 2021-2024, NeurIPS 2023-2024, ICLR 2024, ICCV 2021-2023, ECCV 2022-2024, WACV 2024-2025
