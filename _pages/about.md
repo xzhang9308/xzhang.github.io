@@ -137,6 +137,7 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 # 🎨 Working Experience
 - *2024.09 - Present*, Research Scientist, Nanyang Technological University (NTU), Singapore.
 - *2022.07 - 2024.08*, Postdoctoral Fellow, McMaster University (Mac), Canada.
+- *2022.06 - 2024.08*, Assistant Researcher, Shanghai Jiao Tong University, China.
 
 
 
@@ -174,4 +175,4 @@ Yanhui Guo, **Xi Zhang**, Xiaolin Wu.
 
 
 ## Conference Reviewer
-- CVPR 2021-2024, NeurIPS 2023-2024, ICLR 2024, ICCV 2021-2023, ECCV 2022-2024, WACV 2024-2025
+- CVPR 2021-2024, NeurIPS 2023-2024, ICLR 2024, ICCV 2021-2023, ECCV 2022-2024, WACV 2024-2025, AISTATS 2025
