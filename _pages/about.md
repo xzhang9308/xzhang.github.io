@@ -36,6 +36,7 @@ Additionally, I am also interested in core DL challenges, including domain gener
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉 One paper on multirate image compression is accepted by CVPR 2025.
 - *2024.09*: &nbsp;🎉 One paper on optimal lattice vector quantizer is accepted by NeurIPS 2024. 
 - *2024.07*: &nbsp;🎉 One paper on point cloud compression is accepted by ECCV 2024. 
 - *2024.01*: &nbsp;🎉 One paper on light field image compression is accepted by JVCI. 
